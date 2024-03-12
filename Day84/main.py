@@ -1,6 +1,5 @@
 import random
 
-
 # Dictionary to map position on the board
 board_position = {
     "1": (0, 0), "2": (0, 1), "3": (0, 2),
