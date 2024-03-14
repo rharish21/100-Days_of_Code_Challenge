@@ -6,7 +6,7 @@ from PIL import Image, ImageTk, ImageGrab
 
 # Tkinter
 window = Tk()
-window.title("Mik's Watermark")
+window.title("Rag's Watermark")
 window.config(padx=20, pady=20)
 window['background'] ='#16425D'
 
