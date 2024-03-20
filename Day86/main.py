@@ -113,7 +113,7 @@ def reset_labels():
 
 # Create the main window
 window = Tk()
-window.title("Rag's Speed Typing Test")
+window.title("Mik's Speed Typing Test")
 window.config(padx=50, pady=50, bg=BACKGROUND_COLOR)
 
 # Create a Text widget with three rows
@@ -124,7 +124,7 @@ text_widget.grid(column=0, row=3, rowspan=4, sticky="nsew")
 insert_words()
 
 # Load the image
-typewriter = PhotoImage(file="common_english_words.csv")
+typewriter = PhotoImage(file="typewriter.png")
 
 # Create a Label for the image
 image_label = Label(image=typewriter, bg=BACKGROUND_COLOR)
