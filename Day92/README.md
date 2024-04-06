@@ -7,7 +7,7 @@ A Flask-based web application that generates a color palette from an uploaded im
 ## Features
 
 - **Image Upload**: Users can upload an image file (e.g., JPG, PNG).
-- **Color Extraction**: Extracts the most dominant colors from the image.
+- **Color Extraction**: Extracts the most dominant colors from the image
 - **Color Palette Display**: Displays the extracted colors in a visually appealing palette.
 - **Downloadable Palette**: Allows users to download the color palette as a CSV file.
 

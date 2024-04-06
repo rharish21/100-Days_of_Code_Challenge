@@ -10,7 +10,7 @@ A Python-based desktop application built with `tkinter` and `PIL/Pillow` to add 
 - **Watermark Placement**: Add text watermarks to images with customizable positioning.
 - **Font Size Adjustment**: Modify the watermark text size dynamically.
 - **Real-Time Preview**: See changes instantly on the canvas.
-- **Image Resizing**: Automatically resizes images to fit the workspace while maintaining aspect ratio.
+- **Image Resizing**: Automatically resizes images to fit the workspace while maintaining aspect ratio
 
 ---
 

@@ -6,7 +6,7 @@ A Flask-based web application that converts PDF files into audio using **Text-to
 
 ## Features
 
-- **PDF Upload**: Users can upload PDF files to the application.
+- **PDF Upload**: Users can upload PDF files to the application
 - **Text Extraction**: Extracts text from the uploaded PDF using `PyPDF2`.
 - **Text-to-Speech Conversion**: Converts the extracted text into audio using `gTTS` (Google Text-to-Speech).
 - **Audio Download**: Allows users to download the generated audio file.

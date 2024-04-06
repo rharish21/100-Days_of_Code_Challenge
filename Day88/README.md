@@ -7,7 +7,7 @@ Work-Friendly Cafes Finder is a web application built using Python and Flask tha
 - **Database Management:** Uses SQLite and SQLAlchemy to store and retrieve cafe details.
 - **User-Friendly UI:** Built with Flask and Bootstrap5 for a responsive interface.
 - **REST API Integration:** Allows interaction with the database through API endpoints.
-- **Search Functionality:** Users can search for cafes based on specific criteria.
+- **Search Functionality:** Users can search for cafes based on specific criteria
 - **CRUD Operations:** Ability to add, update, and delete cafe details.
 
 ## Technologies Used

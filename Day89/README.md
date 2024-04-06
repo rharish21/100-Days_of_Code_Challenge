@@ -8,7 +8,7 @@ A Flask-based web application for managing tasks and to-do lists. This app allow
 
 - **User Authentication**: Users can register, log in, and log out to manage their personal to-do lists.
 - **Task Management**: Create, update, and delete tasks.
-- **Database Integration**: Uses SQLite to store user data and tasks.
+- **Database Integration**: Uses SQLite to store user data and tasks
 - **Responsive Design**: Built with **Bootstrap** for a clean and responsive user interface.
 
 ---

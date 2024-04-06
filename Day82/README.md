@@ -14,7 +14,7 @@ A simple Python program that converts text into Morse code and decodes Morse cod
 
 ## How It Works
 
-The program uses a dictionary to map each alphanumeric character to its corresponding Morse code. It then processes the user's input to convert it into Morse code or decode Morse code back into text.
+The program uses a dictionary to map each alphanumeric character to its corresponding Morse code. It then processes the user's input to convert it into Morse code or decode Morse code back into text
 
 ### Example:
 - Input: `HELLO`

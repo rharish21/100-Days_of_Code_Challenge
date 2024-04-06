@@ -10,7 +10,7 @@ Welcome to my **Professional Portfolio Website**! This project showcases my skil
 - **Responsive Layout**: Optimized for both desktop and mobile users.
 - **Email Integration**: Uses `smtplib` to handle contact form submissions.
 - **SEO Best Practices**: Designed with search engine optimization in mind.
-- **Accessibility**: Prioritizes accessibility for all users.
+- **Accessibility**: Prioritizes accessibility for all users
 
 ---
 

@@ -8,7 +8,7 @@ A Python-based writing application built using the `tkinter` library. The app ch
 
 - **Disappearing Text**: If the user stops typing for a set amount of time (e.g., 5 seconds), the text will disappear.
 - **Focus Mode**: Encourages continuous writing without distractions.
-- **Simple Interface**: Easy-to-use GUI for a seamless writing experience.
+- **Simple Interface**: Easy-to-use GUI for a seamless writing experience
 
 ---
 

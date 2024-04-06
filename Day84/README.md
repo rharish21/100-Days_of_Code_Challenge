@@ -8,7 +8,7 @@ A text-based implementation of the classic Tic Tac Toe game, playable in the com
 
 - **2-Player Mode**: Play against a friend, with one player as "X" and the other as "O".
 - **AI Player (Optional)**: Play against a simple AI opponent.
-- **Interactive Command-Line Interface**: Easy-to-use interface for playing the game.
+- **Interactive Command-Line Interface**: Easy-to-use interface for playing the game
 
 ---
 

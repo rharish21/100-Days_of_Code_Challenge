@@ -9,7 +9,7 @@ A Python-based typing speed test application built using the `tkinter` library. 
 - **Typing Speed Test**: Measures your typing speed in WPM and CPM.
 - **Random Word Generation**: Uses a list of common English words for the test.
 - **Timer**: A one-minute timer to track your typing speed.
-- **User-Friendly Interface**: Simple and intuitive GUI for easy interaction.
+- **User-Friendly Interface**: Simple and intuitive GUI for easy interaction
 
 ---
 
