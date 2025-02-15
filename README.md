@@ -1,5 +1,5 @@
 Hello,
-Starting this in Jan 2023
+Starting this in Jan 2023, Really excited for the journey!
 This is a repository of my final projects for Angela Yu's 100 Days of Code: The Complete Python Pro Bootcamp!!
 
 **Day 1 Project: [Band Name Generator]**
