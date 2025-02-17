@@ -1,9 +1,4 @@
-# IN PROGRESS
-
 # Day 95 Professional Portfolio Project: Space Invaders Game
-
-
-
 
 
 ## Overview
@@ -12,19 +7,8 @@
 
 ### The challenge
 
-- Using Python Turtle, build the classic [Space Invaders Game](https://en.wikipedia.org/wiki/Space_Invaders) arcade game where you shoot down alien ships.
+- Using Python Turtle, build the classic arcade game where you shoot down alien ships.
  
 ### Links
 
-- Solution URL: [Space Invaders Game](https://github.com/Mikerniker/100_Days_of_Python/tree/main/Day95)
-
-## Reflection
-**Approach:** 
-
-
-
-## Notes: 
-- 
-
-
-## References
+- Solution URL: [Space Invaders Game][(https://github.com/rharish21/100-Days_of_Code_Challenge/tree/main/Day95)]
